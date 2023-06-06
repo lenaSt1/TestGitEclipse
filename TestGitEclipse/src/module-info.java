@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Lena
+ *
+ */
+module TestGitEclipse {
+}
